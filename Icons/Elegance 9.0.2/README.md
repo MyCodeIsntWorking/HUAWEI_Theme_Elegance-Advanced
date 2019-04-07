@@ -13,4 +13,4 @@ https://play.google.com/store/apps/details?id=org.lichess.mobileapp
 ## FX File Explorer
 https://play.google.com/store/apps/details?id=com.prodev.explorer 
 
-<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/com.prodev.explorer.png">
+<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/636febc82ff9c0743b5a1e87a7ce73279d4f13af/Icons/Elegance%209.0.2/com.prodev.explorer.png">
