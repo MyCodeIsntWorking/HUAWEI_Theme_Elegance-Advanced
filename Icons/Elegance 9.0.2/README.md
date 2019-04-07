@@ -18,4 +18,4 @@ https://play.google.com/store/apps/details?id=com.prodev.explorer
 ## BD Navigator
 https://play.google.com/store/apps/details?id=de.hafas.android.db
 
-<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/com.prodev.explorer.png">
+<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/de.hafas.android.db.png">
