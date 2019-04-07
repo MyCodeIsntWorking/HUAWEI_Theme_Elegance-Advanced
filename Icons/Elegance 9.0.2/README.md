@@ -20,7 +20,16 @@ https://play.google.com/store/apps/details?id=de.hafas.android.db
 
 <image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/de.hafas.android.db.png">
 
-## GELBE LISTE PHARMINDEX
+## Gelbe Liste Pharmaindex
 https://play.google.com/store/apps/details?id=hu.mobilab.android.ubmgla
 
 <image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/hu.mobilab.android.ubmgla.png">
+
+## bergfex
+https://play.google.com/store/apps/developer?id=bergfex+GmbH
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.bergfex.mobile.weather.png">
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.bergfex.tour.png">
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.bergfex.mobile.android.png">
