@@ -1,4 +1,4 @@
-# Third-Party Icons for Elegance 9.0.2 Theme by jiajia
+# Third-Party App Icons for Elegance 9.0.2 Theme by jiajia
 
 ## WhatsApp
 <image src="https://i.imgur.com/Cs2Ruiz.png">
