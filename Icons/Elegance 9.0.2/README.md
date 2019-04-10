@@ -79,3 +79,13 @@ https://play.google.com/store/apps/details?id=com.facebook.lite
 https://play.google.com/store/apps/details?id=com.facebook.mlite
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.facebook.mlite.png">
+
+## Twitter
+https://play.google.com/store/apps/details?id=com.twitter.android
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.twitter.android.png">
+
+## Twitter Lite
+https://play.google.com/store/apps/details?id=com.twitter.android.lite
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.twitter.android.lite.png">
