@@ -89,3 +89,8 @@ https://play.google.com/store/apps/details?id=com.twitter.android
 https://play.google.com/store/apps/details?id=com.twitter.android.lite
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.twitter.android.lite.png">
+
+## Audiobooks from Audible
+https://play.google.com/store/apps/details?id=com.audible.application
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.audible.application.png">
