@@ -49,3 +49,8 @@ https://play.google.com/store/apps/details?id=com.teamspeak.ts3client
 https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.google.android.apps.authenticator2.png">
+
+## Spotify
+https://play.google.com/store/apps/details?id=com.spotify.music
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.spotify.music.png">
