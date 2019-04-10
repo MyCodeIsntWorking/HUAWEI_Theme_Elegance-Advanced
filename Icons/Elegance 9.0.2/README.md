@@ -39,3 +39,8 @@ https://play.google.com/store/apps/details?id=com.discord
 https://play.google.com/store/apps/details?id=tv.twitch.android.app
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/tv.twitch.android.app.png">
+
+## TeamSpeak 3
+https://play.google.com/store/apps/details?id=com.teamspeak.ts3client
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.teamspeak.ts3client.png">
