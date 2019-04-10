@@ -59,3 +59,23 @@ https://play.google.com/store/apps/details?id=com.spotify.music
 https://play.google.com/store/apps/details?id=com.ecosia.android
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.ecosia.android.png">
+
+## Facebook
+https://play.google.com/store/apps/details?id=com.facebook.katana
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.facebook.katana.png">
+
+## Facebook Messenger
+https://play.google.com/store/apps/details?id=com.facebook.orca
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.facebook.orca.png">
+
+## Facebook Lite
+https://play.google.com/store/apps/details?id=com.facebook.lite
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.facebook.lite.png">
+
+## Facebook Lite Messenger
+https://play.google.com/store/apps/details?id=com.facebook.mlite
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.facebook.mlite.png">
