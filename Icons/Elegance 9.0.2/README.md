@@ -29,3 +29,13 @@ https://play.google.com/store/apps/details?id=hu.mobilab.android.ubmgla
 https://play.google.com/store/apps/developer?id=bergfex+GmbH
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.bergfex.mobile.weather.png"> <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.bergfex.tour.png"> <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.bergfex.mobile.android.png">
+
+## Discord
+https://play.google.com/store/apps/details?id=com.discord
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.discord.png">
+
+## Twitch
+https://play.google.com/store/apps/details?id=tv.twitch.android.app
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/tv.twitch.android.app.png">
