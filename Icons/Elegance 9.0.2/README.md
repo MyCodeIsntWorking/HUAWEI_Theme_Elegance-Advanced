@@ -94,3 +94,8 @@ https://play.google.com/store/apps/details?id=com.twitter.android.lite
 https://play.google.com/store/apps/details?id=com.audible.application
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.audible.application.png">
+
+## Flickr
+https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.flickr
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.yahoo.mobile.client.android.flickr.png">
