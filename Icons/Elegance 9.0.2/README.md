@@ -54,3 +54,8 @@ https://play.google.com/store/apps/details?id=com.google.android.apps.authentica
 https://play.google.com/store/apps/details?id=com.spotify.music
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.spotify.music.png">
+
+## Ecosia Browser
+https://play.google.com/store/apps/details?id=com.ecosia.android
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.ecosia.android.png">
