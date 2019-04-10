@@ -3,59 +3,59 @@
 ## WhatsApp
 https://play.google.com/store/apps/details?id=com.whatsapp 
 
-<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/com.whatsapp.png">
+<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/com.whatsapp.png">
 
 ## lichess
 https://play.google.com/store/apps/details?id=org.lichess.mobileapp
 
-<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/org.lichess.mobileapp.png">
+<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/org.lichess.mobileapp.png">
 
 ## FX File Explorer
 https://play.google.com/store/apps/details?id=com.prodev.explorer 
 
-<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/com.prodev.explorer.png">
+<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/com.prodev.explorer.png">
 
 ## BD Navigator
 https://play.google.com/store/apps/details?id=de.hafas.android.db
 
-<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/de.hafas.android.db.png">
+<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/de.hafas.android.db.png">
 
 ## Gelbe Liste Pharmaindex
 https://play.google.com/store/apps/details?id=hu.mobilab.android.ubmgla
 
-<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/hu.mobilab.android.ubmgla.png">
+<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/hu.mobilab.android.ubmgla.png">
 
 ## bergfex
 https://play.google.com/store/apps/developer?id=bergfex+GmbH
 
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.bergfex.mobile.weather.png"> <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.bergfex.tour.png"> <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.bergfex.mobile.android.png">
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.bergfex.mobile.weather.png"> <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.bergfex.tour.png"> <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.bergfex.mobile.android.png">
 
 ## Discord
 https://play.google.com/store/apps/details?id=com.discord
 
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.discord.png">
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.discord.png">
 
 ## Twitch
 https://play.google.com/store/apps/details?id=tv.twitch.android.app
 
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/tv.twitch.android.app.png">
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/tv.twitch.android.app.png">
 
 ## TeamSpeak 3
 https://play.google.com/store/apps/details?id=com.teamspeak.ts3client
 
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.teamspeak.ts3client.png">
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.teamspeak.ts3client.png">
 
 ## Google Authenticator
 https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2
 
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.google.android.apps.authenticator2.png">
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.google.android.apps.authenticator2.png">
 
 ## Spotify
 https://play.google.com/store/apps/details?id=com.spotify.music
 
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.spotify.music.png">
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.spotify.music.png">
 
 ## Ecosia Browser
 https://play.google.com/store/apps/details?id=com.ecosia.android
 
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/com.ecosia.android.png">
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.ecosia.android.png">
