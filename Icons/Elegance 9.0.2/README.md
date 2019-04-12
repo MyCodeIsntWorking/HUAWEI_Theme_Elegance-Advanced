@@ -129,3 +129,8 @@ https://play.google.com/store/apps/details?id=com.netflix.mediaclient
 https://play.google.com/store/apps/details?id=com.soundcloud.android
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.soundcloud.android.png">
+
+## Deezer Music Player: Songs, Radio & Podcasts
+https://play.google.com/store/apps/details?id=deezer.android.app
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/deezer.android.app.png">
