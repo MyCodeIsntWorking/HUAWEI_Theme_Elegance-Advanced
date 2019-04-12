@@ -99,3 +99,8 @@ https://play.google.com/store/apps/details?id=com.audible.application
 https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.flickr
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.yahoo.mobile.client.android.flickr.png">
+
+## QR Code Reader and Scanner: App for Android
+https://play.google.com/store/apps/details?id=com.kaspersky.qrscanner
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.kaspersky.qrscanner.png">
