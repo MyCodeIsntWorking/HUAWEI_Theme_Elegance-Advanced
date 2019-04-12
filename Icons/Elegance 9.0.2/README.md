@@ -144,3 +144,8 @@ https://play.google.com/store/apps/details?id=com.ebay.mobile
 https://play.google.com/store/apps/details?id=com.ebay.kleinanzeigen
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.ebay.kleinanzeigen.png">
+
+## PayPal Mobile Cash: Send and Request Money Fast
+https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.paypal.android.p2pmobile.png">
