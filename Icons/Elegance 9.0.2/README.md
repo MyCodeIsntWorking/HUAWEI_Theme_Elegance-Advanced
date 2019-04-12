@@ -134,3 +134,13 @@ https://play.google.com/store/apps/details?id=com.soundcloud.android
 https://play.google.com/store/apps/details?id=deezer.android.app
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/deezer.android.app.png">
+
+## Shop and save on your favorite brands with eBay
+https://play.google.com/store/apps/details?id=com.ebay.mobile
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.ebay.mobile.png">
+
+## eBay Kleinanzeigen for Germany
+https://play.google.com/store/apps/details?id=com.ebay.kleinanzeigen
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.ebay.kleinanzeigen.png">
