@@ -119,3 +119,8 @@ https://play.google.com/store/apps/details?id=com.snapchat.android
 https://play.google.com/store/apps/details?id=com.instagram.android
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.instagram.android.png">
+
+## Netflix
+https://play.google.com/store/apps/details?id=com.netflix.mediaclient
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.netflix.mediaclient.png">
