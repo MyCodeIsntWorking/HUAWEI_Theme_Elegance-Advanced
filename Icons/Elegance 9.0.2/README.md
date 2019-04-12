@@ -109,3 +109,13 @@ https://play.google.com/store/apps/details?id=com.kaspersky.qrscanner
 https://play.google.com/store/apps/details?id=com.dropbox.android
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.dropbox.android.png">
+
+## Snapchat
+https://play.google.com/store/apps/details?id=com.snapchat.android
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.snapchat.android.png">
+
+## Instagram
+https://play.google.com/store/apps/details?id=com.instagram.android
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.instagram.android.png">
