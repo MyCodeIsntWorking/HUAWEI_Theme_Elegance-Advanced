@@ -149,3 +149,13 @@ https://play.google.com/store/apps/details?id=com.ebay.kleinanzeigen
 https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.paypal.android.p2pmobile.png">
+
+## LIEFERHELD | Order Food
+https://play.google.com/store/apps/details?id=de.lieferheld.android
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/de.lieferheld.android.png">
+
+## Lieferando.de - Order Food
+https://play.google.com/store/apps/details?id=com.yopeso.lieferando
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.yopeso.lieferando.png">
