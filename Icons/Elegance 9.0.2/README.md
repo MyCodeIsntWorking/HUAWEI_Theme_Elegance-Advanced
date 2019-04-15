@@ -159,3 +159,8 @@ https://play.google.com/store/apps/details?id=de.lieferheld.android
 https://play.google.com/store/apps/details?id=com.yopeso.lieferando
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.yopeso.lieferando.png">
+
+## Microsoft Office Lens - PDF Scanner
+https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.microsoft.office.officelens.png">
