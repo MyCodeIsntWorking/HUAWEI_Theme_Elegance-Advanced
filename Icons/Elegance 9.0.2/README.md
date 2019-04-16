@@ -1,29 +1,9 @@
 # Third-Party App Icons for Elegance 9.0.2 Theme by jiajia
 
-## WhatsApp
-https://play.google.com/store/apps/details?id=com.whatsapp 
+## Audiobooks from Audible
+https://play.google.com/store/apps/details?id=com.audible.application
 
-<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/com.whatsapp.png">
-
-## lichess
-https://play.google.com/store/apps/details?id=org.lichess.mobileapp
-
-<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/org.lichess.mobileapp.png">
-
-## FX File Explorer
-https://play.google.com/store/apps/details?id=com.prodev.explorer 
-
-<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/com.prodev.explorer.png">
-
-## BD Navigator
-https://play.google.com/store/apps/details?id=de.hafas.android.db
-
-<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/de.hafas.android.db.png">
-
-## Gelbe Liste Pharmaindex
-https://play.google.com/store/apps/details?id=hu.mobilab.android.ubmgla
-
-<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/hu.mobilab.android.ubmgla.png">
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.audible.application.png">
 
 ## bergfex
 https://play.google.com/store/apps/developer?id=bergfex+GmbH
@@ -35,25 +15,20 @@ https://play.google.com/store/apps/details?id=com.discord
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.discord.png">
 
-## Twitch
-https://play.google.com/store/apps/details?id=tv.twitch.android.app
+## Dropbox
+https://play.google.com/store/apps/details?id=com.dropbox.android
 
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/tv.twitch.android.app.png">
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.dropbox.android.png">
 
-## TeamSpeak 3
-https://play.google.com/store/apps/details?id=com.teamspeak.ts3client
+## eBay Kleinanzeigen for Germany
+https://play.google.com/store/apps/details?id=com.ebay.kleinanzeigen
 
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.teamspeak.ts3client.png">
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.ebay.kleinanzeigen.png">
 
-## Google Authenticator
-https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2
+## Shop and save on your favorite brands with eBay
+https://play.google.com/store/apps/details?id=com.ebay.mobile
 
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.google.android.apps.authenticator2.png">
-
-## Spotify
-https://play.google.com/store/apps/details?id=com.spotify.music
-
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.spotify.music.png">
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.ebay.mobile.png">
 
 ## Ecosia Browser
 https://play.google.com/store/apps/details?id=com.ecosia.android
@@ -65,11 +40,6 @@ https://play.google.com/store/apps/details?id=com.facebook.katana
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.facebook.katana.png">
 
-## Facebook Messenger
-https://play.google.com/store/apps/details?id=com.facebook.orca
-
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.facebook.orca.png">
-
 ## Facebook Lite
 https://play.google.com/store/apps/details?id=com.facebook.lite
 
@@ -80,87 +50,117 @@ https://play.google.com/store/apps/details?id=com.facebook.mlite
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.facebook.mlite.png">
 
-## Twitter
-https://play.google.com/store/apps/details?id=com.twitter.android
+## Facebook Messenger
+https://play.google.com/store/apps/details?id=com.facebook.orca
 
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.twitter.android.png">
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.facebook.orca.png">
 
-## Twitter Lite
-https://play.google.com/store/apps/details?id=com.twitter.android.lite
+## Google Authenticator
+https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2
 
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.twitter.android.lite.png">
-
-## Audiobooks from Audible
-https://play.google.com/store/apps/details?id=com.audible.application
-
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.audible.application.png">
-
-## Flickr
-https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.flickr
-
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.yahoo.mobile.client.android.flickr.png">
-
-## QR Code Reader and Scanner
-https://play.google.com/store/apps/details?id=com.kaspersky.qrscanner
-
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.kaspersky.qrscanner.png">
-
-## Dropbox
-https://play.google.com/store/apps/details?id=com.dropbox.android
-
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.dropbox.android.png">
-
-## Snapchat
-https://play.google.com/store/apps/details?id=com.snapchat.android
-
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.snapchat.android.png">
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.google.android.apps.authenticator2.png">
 
 ## Instagram
 https://play.google.com/store/apps/details?id=com.instagram.android
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.instagram.android.png">
 
+## QR Code Reader and Scanner
+https://play.google.com/store/apps/details?id=com.kaspersky.qrscanner
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.kaspersky.qrscanner.png">
+
+## Microsoft Office Lens - PDF Scanner
+https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.microsoft.office.officelens.png">
+
 ## Netflix
 https://play.google.com/store/apps/details?id=com.netflix.mediaclient
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.netflix.mediaclient.png">
-
-## SoundCloud - Music & Audio
-https://play.google.com/store/apps/details?id=com.soundcloud.android
-
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.soundcloud.android.png">
-
-## Deezer Music Player: Songs, Radio & Podcasts
-https://play.google.com/store/apps/details?id=deezer.android.app
-
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/deezer.android.app.png">
-
-## Shop and save on your favorite brands with eBay
-https://play.google.com/store/apps/details?id=com.ebay.mobile
-
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.ebay.mobile.png">
-
-## eBay Kleinanzeigen for Germany
-https://play.google.com/store/apps/details?id=com.ebay.kleinanzeigen
-
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.ebay.kleinanzeigen.png">
 
 ## PayPal Mobile Cash: Send and Request Money Fast
 https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.paypal.android.p2pmobile.png">
 
-## LIEFERHELD | Order Food
-https://play.google.com/store/apps/details?id=de.lieferheld.android
+## FX File Explorer
+https://play.google.com/store/apps/details?id=com.prodev.explorer 
 
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/de.lieferheld.android.png">
+<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/com.prodev.explorer.png">
+
+## Snapchat
+https://play.google.com/store/apps/details?id=com.snapchat.android
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.snapchat.android.png">
+
+## SoundCloud - Music & Audio
+https://play.google.com/store/apps/details?id=com.soundcloud.android
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.soundcloud.android.png">
+
+## Spotify
+https://play.google.com/store/apps/details?id=com.spotify.music
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.spotify.music.png">
+
+## TeamSpeak 3
+https://play.google.com/store/apps/details?id=com.teamspeak.ts3client
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.teamspeak.ts3client.png">
+
+## Twitter Lite
+https://play.google.com/store/apps/details?id=com.twitter.android.lite
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.twitter.android.lite.png">
+
+## Twitter
+https://play.google.com/store/apps/details?id=com.twitter.android
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.twitter.android.png">
+
+## WhatsApp
+https://play.google.com/store/apps/details?id=com.whatsapp 
+
+<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/com.whatsapp.png">
+
+## Flickr
+https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.flickr
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.yahoo.mobile.client.android.flickr.png">
 
 ## Lieferando.de - Order Food
 https://play.google.com/store/apps/details?id=com.yopeso.lieferando
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.yopeso.lieferando.png">
 
-## Microsoft Office Lens - PDF Scanner
-https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
+## BD Navigator
+https://play.google.com/store/apps/details?id=de.hafas.android.db
 
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.microsoft.office.officelens.png">
+<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/de.hafas.android.db.png">
+
+## LIEFERHELD | Order Food
+https://play.google.com/store/apps/details?id=de.lieferheld.android
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/de.lieferheld.android.png">
+
+## Deezer Music Player: Songs, Radio & Podcasts
+https://play.google.com/store/apps/details?id=deezer.android.app
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/deezer.android.app.png">
+
+## Gelbe Liste Pharmaindex
+https://play.google.com/store/apps/details?id=hu.mobilab.android.ubmgla
+
+<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/hu.mobilab.android.ubmgla.png">
+
+## lichess
+https://play.google.com/store/apps/details?id=org.lichess.mobileapp
+
+<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/org.lichess.mobileapp.png">
+
+## Twitch
+https://play.google.com/store/apps/details?id=tv.twitch.android.app
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/tv.twitch.android.app.png">
