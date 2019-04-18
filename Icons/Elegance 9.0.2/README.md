@@ -1,5 +1,11 @@
 # Third-Party App Icons for Elegance 9.0.2 Theme by jiajia
 
+## Amazon Mobile LLC
+https://play.google.com/store/apps/developer?id=Amazon+Mobile+LLC
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.amazon.avod.thirdpartyclient.png"> <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.amazon.dee.app.png"> <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.amazon.kindle.png"> <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.amazon.mp3.png">
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.amazon.storm.lightning.client.aosp.png">
+
 ## Audiobooks from Audible
 https://play.google.com/store/apps/details?id=com.audible.application
 
@@ -140,7 +146,7 @@ https://play.google.com/store/apps/details?id=de.hafas.android.db
 
 <image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/de.hafas.android.db.png">
 
-## LIEFERHELD | Order Food
+## LIEFERHELD - Order Food
 https://play.google.com/store/apps/details?id=de.lieferheld.android
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/de.lieferheld.android.png">
