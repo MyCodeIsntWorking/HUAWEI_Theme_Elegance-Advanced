@@ -4,7 +4,7 @@
 https://play.google.com/store/apps/developer?id=Amazon+Mobile+LLC
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.amazon.avod.thirdpartyclient.png"> <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.amazon.dee.app.png"> <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.amazon.kindle.png"> <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.amazon.mp3.png">
-  <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.amazon.storm.lightning.client.aosp.png">
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.amazon.storm.lightning.client.aosp.png">
 
 ## Audiobooks from Audible
 https://play.google.com/store/apps/details?id=com.audible.application
@@ -40,6 +40,11 @@ https://play.google.com/store/apps/details?id=com.ebay.mobile
 https://play.google.com/store/apps/details?id=com.ecosia.android
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.ecosia.android.png">
+
+## EVE Online
+https://play.google.com/store/apps/details?id=is.ccp.tech.mobile
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/is.ccp.tech.mobile.png">
 
 ## Facebook
 https://play.google.com/store/apps/details?id=com.facebook.katana
