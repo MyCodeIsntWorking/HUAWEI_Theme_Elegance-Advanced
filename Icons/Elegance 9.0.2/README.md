@@ -16,6 +16,11 @@ https://play.google.com/store/apps/developer?id=bergfex+GmbH
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.bergfex.mobile.weather.png"> <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.bergfex.tour.png"> <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.bergfex.mobile.android.png">
 
+## Brave Browser
+https://play.google.com/store/apps/details?id=com.brave.browser
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.brave.browser.png">
+
 ## Discord
 https://play.google.com/store/apps/details?id=com.discord
 
