@@ -21,6 +21,11 @@ https://play.google.com/store/apps/details?id=com.brave.browser
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.brave.browser.png">
 
+## Deutsche Telekom AG - Voicemail
+https://play.google.com/store/apps/details?id=de.telekom.mds.mbp
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/de.telekom.mds.mbp.png">
+
 ## Discord
 https://play.google.com/store/apps/details?id=com.discord
 
@@ -125,6 +130,11 @@ https://play.google.com/store/apps/details?id=com.spotify.music
 https://play.google.com/store/apps/details?id=com.teamspeak.ts3client
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.teamspeak.ts3client.png">
+
+## Telekom Deutschland GmbH - MeinMagenta
+https://play.google.com/store/apps/details?id=de.telekom.android.customercenter
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/de.telekom.android.customercenter.png">
 
 ## Twitter Lite
 https://play.google.com/store/apps/details?id=com.twitter.android.lite
