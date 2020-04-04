@@ -81,6 +81,11 @@ https://play.google.com/store/apps/details?id=com.google.android.apps.authentica
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.google.android.apps.authenticator2.png">
 
+## Google Translator
+https://play.google.com/store/apps/details?id=com.google.android.apps.translate
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.google.android.apps.translate.png">
+
 ## Instagram
 https://play.google.com/store/apps/details?id=com.instagram.android
 
