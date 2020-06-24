@@ -86,6 +86,11 @@ https://play.google.com/store/apps/details?id=com.google.android.apps.translate
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.google.android.apps.translate.png">
 
+## GoPro
+https://play.google.com/store/apps/details?id=com.gopro.smarty
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.gopro.smarty.png">
+
 ## Instagram
 https://play.google.com/store/apps/details?id=com.instagram.android
 
@@ -105,6 +110,11 @@ https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
 https://play.google.com/store/apps/details?id=com.netflix.mediaclient
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.netflix.mediaclient.png">
+
+## Alpenvereinaktiv
+https://play.google.com/store/apps/details?id=com.outdooractive.alpenverein
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.outdooractive.alpenverein.png">
 
 ## PayPal Mobile Cash: Send and Request Money Fast
 https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile
