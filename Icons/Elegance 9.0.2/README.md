@@ -76,6 +76,11 @@ https://play.google.com/store/apps/details?id=com.facebook.orca
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.facebook.orca.png">
 
+## Führerschein Theorie 2020 - Auto und Motorrad
+https://play.google.com/store/apps/details?id=de.fsp.fst.p1
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/de.fsp.fst.p1.png">
+
 ## Google Authenticator
 https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2
 
@@ -95,6 +100,11 @@ https://play.google.com/store/apps/details?id=com.gopro.smarty
 https://play.google.com/store/apps/details?id=com.instagram.android
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.instagram.android.png">
+
+## ImmobilienScout24 - Wohnungen, Häuser & Immobilien
+https://play.google.com/store/apps/details?id=de.is24.android
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/de.is24.android.png">
 
 ## QR Code Reader and Scanner
 https://play.google.com/store/apps/details?id=com.kaspersky.qrscanner
@@ -125,6 +135,11 @@ https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile
 https://play.google.com/store/apps/details?id=com.prodev.explorer 
 
 <image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/com.prodev.explorer.png">
+
+## Resplash - Wallpapers
+https://play.google.com/store/apps/details?id=com.b_lam.resplash 
+
+<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/com.b_lam.resplash.png">
 
 ## Snapchat
 https://play.google.com/store/apps/details?id=com.snapchat.android
