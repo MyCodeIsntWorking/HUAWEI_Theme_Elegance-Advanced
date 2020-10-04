@@ -207,9 +207,14 @@ https://play.google.com/store/apps/details?id=deezer.android.app
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/deezer.android.app.png">
 
 ## Gelbe Liste Pharmaindex
-https://play.google.com/store/apps/details?id=hu.mobilab.android.ubmgla
+https://play.google.com/store/apps/details?id=de.gelbe_liste.app
 
-<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/hu.mobilab.android.ubmgla.png">
+<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/de.gelbe_liste.app">
+
+## ROTE LISTE
+https://play.google.com/store/apps/details?id=de.roteliste.mobile.app
+
+<image src="https://raw.githubusercontent.com/MadameSolette/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/de.roteliste.mobile.app">
 
 ## lichess
 https://play.google.com/store/apps/details?id=org.lichess.mobileapp
