@@ -151,10 +151,20 @@ https://play.google.com/store/apps/details?id=com.soundcloud.android
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.soundcloud.android.png">
 
+## Splash! Wallpaper
+https://play.google.com/store/apps/details?id=partl.unsplashed
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/partl.unsplashed.png">
+
 ## Spotify
 https://play.google.com/store/apps/details?id=com.spotify.music
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.spotify.music.png">
+
+## Steam
+https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.valvesoftware.android.steam.community.png">
 
 ## TeamSpeak 3
 https://play.google.com/store/apps/details?id=com.teamspeak.ts3client
