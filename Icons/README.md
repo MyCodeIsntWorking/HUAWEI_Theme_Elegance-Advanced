@@ -3,4 +3,4 @@
 
 # Development status:
  - Active
- - Last icon submit: 04.10.2020
+ - Last icon submit: 07.03.2021
