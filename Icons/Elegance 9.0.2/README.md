@@ -146,6 +146,11 @@ https://play.google.com/store/apps/details?id=com.snapchat.android
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.snapchat.android.png">
 
+## Signal
+https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/org.thoughtcrime.securesms.png">
+
 ## SoundCloud - Music & Audio
 https://play.google.com/store/apps/details?id=com.soundcloud.android
 
