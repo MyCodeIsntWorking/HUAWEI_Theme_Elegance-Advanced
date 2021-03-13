@@ -114,7 +114,7 @@ https://play.google.com/store/apps/details?id=com.kaspersky.qrscanner
 ## luca app
 https://play.google.com/store/apps/details?id=de.culture4life.luca
 
-<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/de.culture4life.luca">
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/de.culture4life.luca.png">
 
 ## Microsoft Office Lens - PDF Scanner
 https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
