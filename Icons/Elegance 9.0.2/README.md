@@ -1,5 +1,10 @@
 # Third-Party App Icons for Elegance 9.0.2 Theme by jiajia
 
+## Google Play Store
+https://play.google.com/store
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.android.vending.png">
+
 ## Amazon Mobile LLC
 https://play.google.com/store/apps/developer?id=Amazon+Mobile+LLC
 
