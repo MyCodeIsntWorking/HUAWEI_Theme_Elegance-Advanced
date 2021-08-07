@@ -1,5 +1,10 @@
 # Third-Party App Icons for Elegance 9.0.2 Theme by jiajia
 
+## VPN by Private Internet Access
+https://play.google.com/store/apps/details?id=com.privateinternetaccess.android
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.privateinternetaccess.android.png">
+
 ## Google Play Store
 https://play.google.com/store
 
@@ -115,6 +120,16 @@ https://play.google.com/store/apps/details?id=de.is24.android
 https://play.google.com/store/apps/details?id=com.kaspersky.qrscanner
 
 <image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.kaspersky.qrscanner.png">
+
+## CovPass
+https://play.google.com/store/apps/details?id=de.rki.covpass.app
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/de.rki.covpass.app.png">
+
+## Infekt-Info Fallzahlen Inzidenz Impfungen im Blick
+https://play.google.com/store/apps/details?id=com.wdtec.infektinfo
+
+<image src="https://github.com/MadameSolette/HUAWEI/blob/master/Icons/Elegance%209.0.2/third-party-app-icons/com.wdtec.infektinfo.png">
 
 ## luca app
 https://play.google.com/store/apps/details?id=de.culture4life.luca
