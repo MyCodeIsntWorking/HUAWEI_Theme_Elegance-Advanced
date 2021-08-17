@@ -159,12 +159,12 @@ https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile
 ## FX File Explorer
 https://play.google.com/store/apps/details?id=com.prodev.explorer 
 
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/com.prodev.explorer.png">
+<image src="https://github.com/MyCodeIsntWorking/HUAWEI_Theme-Elegance/blob/master/icons/icons/com.prodev.explorer.png">
 
 ## Resplash - Wallpapers
 https://play.google.com/store/apps/details?id=com.b_lam.resplash 
 
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/com.b_lam.resplash.png">
+<image src="https://github.com/MyCodeIsntWorking/HUAWEI_Theme-Elegance/blob/master/icons/icons/com.b_lam.resplash.png">
 
 ## Snapchat
 https://play.google.com/store/apps/details?id=com.snapchat.android
@@ -219,7 +219,7 @@ https://play.google.com/store/apps/details?id=com.twitter.android
 ## WhatsApp
 https://play.google.com/store/apps/details?id=com.whatsapp 
 
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/com.whatsapp.png">
+<image src="https://github.com/MyCodeIsntWorking/HUAWEI_Theme-Elegance/blob/master/icons/icons/com.whatsapp.png">
 
 ## Flickr
 https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.flickr
@@ -234,7 +234,7 @@ https://play.google.com/store/apps/details?id=com.yopeso.lieferando
 ## DB Navigator
 https://play.google.com/store/apps/details?id=de.hafas.android.db
 
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/de.hafas.android.db.png">
+<image src="https://github.com/MyCodeIsntWorking/HUAWEI_Theme-Elegance/blob/master/icons/icons/de.hafas.android.db.png">
 
 ## LIEFERHELD - Order Food
 https://play.google.com/store/apps/details?id=de.lieferheld.android
@@ -249,17 +249,17 @@ https://play.google.com/store/apps/details?id=deezer.android.app
 ## Gelbe Liste Pharmaindex
 https://play.google.com/store/apps/details?id=de.gelbe_liste.app
 
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/de.gelbe_liste.app.png">
+<image src="https://github.com/MyCodeIsntWorking/HUAWEI_Theme-Elegance/blob/master/icons/icons/de.gelbe_liste.app.png">
 
 ## ROTE LISTE
 https://play.google.com/store/apps/details?id=de.roteliste.mobile.app
 
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/de.roteliste.mobile.app.png">
+<image src="https://github.com/MyCodeIsntWorking/HUAWEI_Theme-Elegance/blob/master/icons/icons/de.roteliste.mobile.app.png">
 
 ## lichess
 https://play.google.com/store/apps/details?id=org.lichess.mobileapp
 
-<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/HUAWEI/master/Icons/Elegance%209.0.2/third-party-app-icons/org.lichess.mobileapp.png">
+<image src="https://github.com/MyCodeIsntWorking/HUAWEI_Theme-Elegance/blob/master/icons/icons/org.lichess.mobileapp.png">
 
 ## Twitch
 https://play.google.com/store/apps/details?id=tv.twitch.android.app
