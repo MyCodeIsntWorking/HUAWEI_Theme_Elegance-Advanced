@@ -12,7 +12,7 @@
  - Active
  - Last update: 17.08.2021
 
-# Screenshots:
+# Screenshot:
 <p align="center">
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/HUAWEI_Theme-Elegance/master/preview/Elegance-EMUI-Theme.png"><br><br>
 </p>
