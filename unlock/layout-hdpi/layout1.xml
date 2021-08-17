@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<layout frameRate="30" version="3.0" screenwidth="1080">
+    <image h="150" src="&apos;number_&apos;+system.time.hour1+&apos;.png&apos;" w="100" x="300" y="system.screen_height-390" />
+    <image h="150" src="&apos;number_&apos;+system.time.hour2+&apos;.png&apos;" w="100" x="390" y="system.screen_height-390" />
+    <image h="150" src="colon.png" w="80" x="470" y="system.screen_height-390" />
+    <image h="150" src="&apos;number_&apos;+system.time.min1+&apos;.png&apos;" w="100" x="540" y="system.screen_height-390" />
+    <image h="150" src="&apos;number_&apos;+system.time.min2+&apos;.png&apos;" w="100" x="630" y="system.screen_height-390" />
+    <text align="left" color="#ecd49e" h="60" size="14" src="system.time.ampm" visible="system.time.showampm" w="100" x="740" y="system.screen_height-360" />
+    <text align="center" color="#ecd49e" h="90" size="14" src="system.date" w="1080" x="0" y="system.screen_height-245" />
+    <text align="center" color="#ecd49e" h="70" size="14" src="system.charge.text" visible="system.charge.show and system.music_visible eq 0" w="1080" x="0" y="system.screen_height-450" />
+    <text align="left" color="#ecd49e" h="40" size="12" src="system.message.count" visible="system.message.count gt 0" w="43" x="150" y="system.screen_height-309" />
+    <text align="left" color="#ecd49e" h="40" size="12" src="system.call.count" visible="system.call.count gt 0" w="43" x="150" y="system.screen_height-389" />
+    <image h="128" src="message.png" visible="system.message.count gt 0" w="165" x="20" y="system.screen_height-209" />
+    <image h="128" src="call.png" visible="system.call.count gt 0" w="165" x="20" y="system.screen_height-289" />
+    <text align="center" color="#ecd49e" ellipsize="marquee" h="70" size="14" src="system.ownerinfo.text" visible="!system.charge.show and system.ownerinfo.show" w="1080" x="0" y="system.screen_height-450" />
+</layout>
