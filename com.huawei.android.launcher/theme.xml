@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<hwthemes>
+    <color name="folder_background_simple">#f7f7f7</color>
+    <color name="workspace_app_text_color">#FFffffff</color>
+    <color name="workspace_app_text_shadowColor">#00000000</color>
+    <bool name="workspace_app_text_shadow">true</bool>
+    <color name="folder_app_text_color">#FFffffff</color>
+    <color name="folder_app_text_shadowColor">#000000</color>
+    <bool name="folder_app_text_shadow">false</bool>
+    <color name="folderadd_text_color">#000000</color>
+    <color name="folderadd_text_shadowColor">#00000000</color>
+    <bool name="folderadd_text_shadow">false</bool>
+    <color name="icon_shadow">#00000000</color>
+    <color name="navigation_deskspot_current">#FFFFFF</color>
+    <color name="navigation_deskspot_normal">#b5b5b5</color>
+    <color name="navigation_blackspot_current">#202020</color>
+    <color name="navigation_blackspot_normal">#b5b5b5</color>
+    <color name="clock_dynamic_icon_color">#FFFFFFFF</color>
+    <color name="widget_text_color">#ffffff</color>
+    <color name="calendar_dynamic_date">#797c80</color>
+    <color name="calendar_dynamic">#ffffffff</color>
+    <color name="calendar_dynamic_shadow">#00FFFFFF</color>
+    <color name="home_pinch_in_gesture_color">#00ACC1</color>
+    <color name="ic_home_bg_pressed_color">#00ACC1</color>
+    <color name="checked">#00ACC1</color>
+    <color name="alphaindexer_selected_alpha_color">#FF0D9FFB</color>
+    <color name="launcher_hw_privacy_policy">#007dff</color>
+    <color name="search_span_color">#00ACC1</color>
+    <color name="hifolder_unselected_border_color">#33ffffff</color>
+    <color name="hifolder_unselected_box_color">#14ffffff</color>
+    <color name="hifolder_selected_bg_color">#ff00acc1</color>
+    <color name="hifolder_selected_border_color">#08000000</color>
+</hwthemes>
