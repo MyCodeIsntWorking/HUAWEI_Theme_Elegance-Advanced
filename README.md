@@ -1,4 +1,6 @@
 # Elegance Advanced Theme for EMUI
+ - Added icons to the default theme by JiaJia can be found here:
+ - <a href="https://github.com/MyCodeIsntWorking/HUAWEI_Theme-Elegance/tree/master/icons">Third-Party App Icons</a>
 
 # Install:
 ## Follow the below steps carefully:
