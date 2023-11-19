@@ -1,5 +1,10 @@
 # Third-Party App Icons for Elegance 9.0.2 Theme by jiajia
 
+## Alpine Welten die Bergführer
+https://play.google.com/store/apps/details?id=com.alpinewelten.makrohaus
+
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/HUAWEI_Theme_Elegance-Advanced/master/icons/icons/com.alpinewelten.makrohaus.png">
+
 ## VPN by Private Internet Access
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android
 
@@ -176,6 +181,11 @@ https://play.google.com/store/apps/details?id=com.meteoblue.droid
 
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/HUAWEI_Theme_Elegance-Advanced/master/icons/icons/com.meteoblue.droid.png">
 
+## MyPostcard Postkarten App
+https://play.google.com/store/apps/details?id=de.mypostcard.app
+
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/HUAWEI_Theme_Elegance-Advanced/master/icons/icons/de.mypostcard.app.png">
+
 ## PeakFinder
 https://play.google.com/store/apps/details?id=org.peakfinder.area.alps
 
@@ -206,10 +216,20 @@ https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms
 
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/HUAWEI_Theme_Elegance-Advanced/master/icons/icons/org.thoughtcrime.securesms.png">
 
+## Snow-Forecast.com
+https://play.google.com/store/apps/details?id=com.snow_forecast.snowforecast
+
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/HUAWEI_Theme_Elegance-Advanced/master/icons/icons/com.snow_forecast.snowforecast.png">
+
 ## SoundCloud - Music & Audio
 https://play.google.com/store/apps/details?id=com.soundcloud.android
 
 <image src="https://raw.githubusercontent.com/MyCodeIsntWorking/HUAWEI_Theme_Elegance-Advanced/master/icons/icons/com.soundcloud.android.png">
+
+## SOS EU ALP
+https://play.google.com/store/apps/details?id=at.tirol_notfall
+
+<image src="https://raw.githubusercontent.com/MyCodeIsntWorking/HUAWEI_Theme_Elegance-Advanced/master/icons/icons/at.tirol_notfall.png">
 
 ## Splash! Wallpaper
 https://play.google.com/store/apps/details?id=partl.unsplashed
